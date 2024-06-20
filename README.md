@@ -21,7 +21,8 @@ Enter root password if prompt
   ./install.sh
 ```
 
-# Qtile         [Video Demo](https://youtu.be/MWQ0UFfsYj4?si=AlmYaz0iBOh-g8wP)
+# Qtile  
+[Video Demo](https://youtu.be/MWQ0UFfsYj4?si=AlmYaz0iBOh-g8wP)
 ## Screenshots
 ![launcher_qtile](https://github.com/techy-aviral/voidcraft/assets/98105820/4a344a24-7645-421d-af3f-c942da2c0885)
 ![screenshot_qtile](https://github.com/techy-aviral/voidcraft/assets/98105820/d4587b39-7faf-4f5b-a280-f8c3de519977)
@@ -30,7 +31,8 @@ Enter root password if prompt
 ![music_qtile](https://github.com/techy-aviral/voidcraft/assets/98105820/85e2fb22-f6d8-4a37-abb4-1c1708717fc8)
 ![app_as_root_qtile](https://github.com/techy-aviral/voidcraft/assets/98105820/64eeab33-7024-4f8c-85f1-ee0c52c93730)
 
-# Bspwm        [Video Demo](https://youtu.be/PZozq_CcujY?si=N6iC4BZnc0i_3_PF)
+# Bspwm  
+[Video Demo](https://youtu.be/PZozq_CcujY?si=N6iC4BZnc0i_3_PF)
 ## Screenshots
 ![launcher_bspwm](https://github.com/techy-aviral/voidcraft/assets/98105820/e233d23d-1092-4fbb-965b-6eaffc5942fc)
 ![screenshot_bspwm](https://github.com/techy-aviral/voidcraft/assets/98105820/58ed31c2-058c-41a9-82b7-7bc6ffce4c21)
@@ -39,7 +41,8 @@ Enter root password if prompt
 ![music_bspwm](https://github.com/techy-aviral/voidcraft/assets/98105820/b05736ec-5168-4b02-8763-010f1f28d589)
 ![app_as_root_bspwm](https://github.com/techy-aviral/voidcraft/assets/98105820/d560480a-dd2d-4ece-92f1-c48d9c69ee9f)
 
-# Dwm        [Video Demo](https://youtu.be/LuCaUqg6iso?si=z8pwRZw08rbxvsjE)
+# Dwm  
+[Video Demo](https://youtu.be/LuCaUqg6iso?si=z8pwRZw08rbxvsjE)
 ## Screenshot
 ![launcher_dwm](https://github.com/techy-aviral/voidcraft/assets/98105820/36cd3cb4-cf1e-44df-b537-a171031585dd)
 ![screenshot_dwm](https://github.com/techy-aviral/voidcraft/assets/98105820/b8da2725-2905-4e4c-bf97-689c9183f81a)
@@ -48,7 +51,8 @@ Enter root password if prompt
 ![music_dwm](https://github.com/techy-aviral/voidcraft/assets/98105820/e3985626-7ba6-447d-9ffd-c1222cd4b0e0)
 ![app_as_root_dwm](https://github.com/techy-aviral/voidcraft/assets/98105820/c45d5e54-b4d7-4733-88c6-ce75185d5d27)
 
-# i3wm       [Video Demo](https://youtu.be/Dek5r2D9I_w?si=hvP1ppwwp7UbK2ov)
+# i3wm  
+[Video Demo](https://youtu.be/Dek5r2D9I_w?si=hvP1ppwwp7UbK2ov)
 ## Screenshot
 ![launcher_i3](https://github.com/techy-aviral/voidcraft/assets/98105820/ed131c9c-4e1a-49a5-88bc-96ea82bb0e4b)
 ![screenshot_i3](https://github.com/techy-aviral/voidcraft/assets/98105820/01dc2d48-dca6-406b-b146-e026f39355f0)
