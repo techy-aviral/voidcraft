@@ -8,7 +8,7 @@ All scripts in this setup is made by Aditya Shakya - Lead Developer of Archcraft
 This setup includes  
 Dynamic Window Manager - [qtile](#qtile),[dwm](#dwm)  
 Tiling Window Manager - [i3wm](#i3wm),[bspwm](#bspwm)  
-Stacking Window Manager - fluxbox   
+Stacking Window Manager - [fluxbox](#fluxbox)   
 Most of the Keyboard shortcut are left untouched from stock configuration. To see how each config works and Keyboard shortcut refer [Archcraft Documentation](https://wiki.archcraft.io/docs/intro) for respective window Manager
 
 # Qtile
